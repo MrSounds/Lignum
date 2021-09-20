@@ -41,7 +41,7 @@ p {
 .masthead {
   height: 100vh;
   min-height: 500px;
-  background-image: url("/Users/lyder/Desktop/Web Development/Lignum/bilder/forside.jpg");
+  background-image: url(".../bilder/forside.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
