@@ -38,6 +38,15 @@ p {
   text-align: left;
 }
 
+.nav-white {
+  color: white !important;
+  text-shadow:
+   -1px -1px 0 black,
+    1px -1px 0 black,
+   -1px 1px 0 black,
+    1px 1px 0 black;
+  }
+
 /* FORSIDE */
 .masthead {
   height: 100vh;
