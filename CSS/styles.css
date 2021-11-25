@@ -118,3 +118,16 @@ p {
 .carousel-inner {
   height: auto;
 }
+
+.carousel{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  border: 5px solid #272d42;
+}
+
+.carouselBackground{
+  background-color: #2f3652;
+}
