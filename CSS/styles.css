@@ -112,7 +112,7 @@ p {
 }
 
 .carousel, .item, .active {
-  height: auto;
+  height: 100%;
 }
 
 .carousel-inner {
