@@ -54,7 +54,7 @@ p {
 
 @media (max-width: 1100px) {
   .bg-info{
-    background-color: none !important;
+    background-color: transparent !important;
   }
 }
 
