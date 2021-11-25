@@ -117,7 +117,7 @@ p {
 
 @media (max-width: 1100px) {
   .carousel, .item, .active {
-      height: 70%;
+      height: auto;
   }
 }
 
@@ -127,7 +127,7 @@ p {
 
 @media (max-width: 1100px) {
   .carousel-inner {
-      height: 70%;
+      height: auto;
   }
 }
 
