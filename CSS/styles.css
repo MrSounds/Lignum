@@ -52,6 +52,12 @@ p {
   background-color: rgba(255, 255, 255, .8) !important;
 }
 
+@media (max-width: 1100px) {
+  .bg-info{
+    background-color: none !important;
+  }
+}
+
 /* KONTAKT */
 .kontakt {
   background-color: #2f3652;
