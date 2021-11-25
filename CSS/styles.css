@@ -115,8 +115,20 @@ p {
   height: 100%;
 }
 
+@media (max-width: 1400px) {
+  .carousel, .item, .active {
+      height: auto;
+  }
+}
+
 .carousel-inner {
   height: 100%;
+}
+
+@media (max-width: 1400px) {
+  .carousel-inner {
+      height: auto;
+  }
 }
 
 .carousel{
