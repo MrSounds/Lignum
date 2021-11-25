@@ -125,7 +125,8 @@ p {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  border: 5px solid #272d42;
+  border-top: 5px solid #272d42;
+  border-bottom: 5px solid #272d42;
 }
 
 .carouselBackground{
