@@ -131,14 +131,16 @@ p {
   }
 }
 
-.carousel{
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  border-top: 5px solid #272d42;
-  border-bottom: 5px solid #272d42;
+@media (max-width: 1400px) {
+  .carousel{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    border-top: 5px solid #272d42;
+    border-bottom: 5px solid #272d42;
+  }
 }
 
 .carouselBackground{
